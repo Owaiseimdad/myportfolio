@@ -1,0 +1,44 @@
+[
+  {
+    "id": "services",
+    "h2": "Services and Amenities",
+    "brief": "Our services and amenities are designed to make your travel easy,\nyour stay comfortable, and your experience one-of-a-kind.",
+    "lines": [
+      "Indoor pool",
+      "24-hour fitness center",
+      "Massage therapy",
+      "Full service spa",
+      "In-room jacuzzi tubs",
+      "Rooftop café & smoothie bar",
+      "Coffee bar & pastry shop",
+      "Traditional continental breakfast",
+      "24-hour concierge service",
+      "Business cente",
+      "Complimentary wireless service",
+      "Laundry & dry cleaning service",
+      "Daily paper",
+      "Certified \"green\" hotel",
+      "Pet-friendly rooms & common areas"
+    ]
+  },
+  {
+    "id": "accessibility",
+    "h2": "Accessibility",
+    "brief": "We're committed to maintaining the same quality of service for every\n individual. We offer the following facilities for those with special \n needs:",
+    "lines": [
+      "Grab bars on tub walls",
+      "Shower chairs",
+      "Hand held shower sprayers",
+      "Higher toilets & toilet modifiers",
+      "Lower sink faucet handles",
+      "Wheelchair clearance under sinks &amp; vanity",
+      "Lower racks in closet",
+      "TDD machines",
+      "Telephone light signalers & smoke alarms",
+      "Telephone amplification handset",
+      "Closed captioned television converters",
+      "Vibrating alarm clocks",
+      "Telephones with volume control"
+    ]
+  }
+]
