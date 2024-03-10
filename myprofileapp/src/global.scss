@@ -1,0 +1,9 @@
+$topNavBarClr: black;
+
+$width: 750px;
+
+@mixin mobile {
+  @media (max-width: #{$width}) {
+    @content;
+  }
+}

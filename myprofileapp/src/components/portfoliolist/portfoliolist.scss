@@ -1,0 +1,17 @@
+@import "../../global.scss";
+li {
+  font-size: 25px;
+  margin-right: 25px;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+
+  @include mobile {
+    margin-right: 20px;
+  }
+
+  &.active {
+    background-color: $topNavBarClr;
+    color: white;
+  }
+}
